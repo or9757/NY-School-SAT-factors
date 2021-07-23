@@ -3,7 +3,7 @@
 Goal of this project is to find the correlation factors between SAT score and schools in NYC area. Import the below data files to pre-processing and then merged on DBN which is a primary key for each school. Then Trying to analyze and visualize SAT score by district, race, sex, English Percentage and other factors. 
 
 
-Import Data
+**Import Data**
 SAT scores by school - SAT scores for each high school in New York City
 
 School attendance - Attendance information for each school in New York City
@@ -19,7 +19,7 @@ Demographics - Demographic information for each school
 School survey - Surveys of parents, teachers, and students at each school
 
 
-Result
+**Result**
 
 We have 363 Schools
 
