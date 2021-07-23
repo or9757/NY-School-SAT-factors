@@ -4,6 +4,7 @@ Goal of this project is to find the correlation factors between SAT score and sc
 
 
 **Import Data**
+
 SAT scores by school - SAT scores for each high school in New York City
 
 School attendance - Attendance information for each school in New York City
